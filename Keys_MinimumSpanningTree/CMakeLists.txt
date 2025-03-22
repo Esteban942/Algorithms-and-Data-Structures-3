@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.27)
-project(combinaciones_caja_fuerte)
+project(Keys_MinimumSpanningTree)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(combinaciones_caja_fuerte main.cpp)
+add_executable(Keys_MinimumSpanningTree main.cpp)

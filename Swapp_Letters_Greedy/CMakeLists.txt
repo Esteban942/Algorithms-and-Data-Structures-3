@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.27)
-project(swapp_letters_greedy)
+project(Swapp_Letters_Greedy)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(swapp_letters_greedy main.cpp)
+add_executable(Swapp_Letters_Greedy main.cpp)
