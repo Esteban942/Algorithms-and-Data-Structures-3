@@ -1,3 +1,0 @@
-C:/Users/esteb/OneDrive/Escritorio/algo3/combinaciones_caja_fuerte/cmake-build-debug/CMakeFiles/combinaciones_caja_fuerte.dir
-C:/Users/esteb/OneDrive/Escritorio/algo3/combinaciones_caja_fuerte/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/esteb/OneDrive/Escritorio/algo3/combinaciones_caja_fuerte/cmake-build-debug/CMakeFiles/rebuild_cache.dir
