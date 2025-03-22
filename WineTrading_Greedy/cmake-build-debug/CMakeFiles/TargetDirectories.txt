@@ -1,0 +1,3 @@
+C:/Users/esteb/OneDrive/Escritorio/algo3/vinos/cmake-build-debug/CMakeFiles/vinos.dir
+C:/Users/esteb/OneDrive/Escritorio/algo3/vinos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/esteb/OneDrive/Escritorio/algo3/vinos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

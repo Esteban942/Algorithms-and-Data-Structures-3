@@ -1,0 +1,13 @@
+# ninja log v5
+3	388	7348505250434819	CMakeFiles/divide_and_conquer.dir/Main.cpp.obj	c7da6c7837cef151
+388	487	7348505251394821	divide_and_conquer.exe	6b75a5e264fcaa92
+4	443	7367526611691106	CMakeFiles/divide_and_conquer.dir/Main.cpp.obj	7cf394ee3a3d3fcd
+444	589	7367526613111118	divide_and_conquer.exe	6b75a5e264fcaa92
+3	402	7367526864387478	CMakeFiles/divide_and_conquer.dir/Main.cpp.obj	7cf394ee3a3d3fcd
+403	536	7367526865687481	divide_and_conquer.exe	6b75a5e264fcaa92
+4	406	7367530824104745	CMakeFiles/divide_and_conquer.dir/Main.cpp.obj	7cf394ee3a3d3fcd
+406	543	7367530825444747	divide_and_conquer.exe	6b75a5e264fcaa92
+5	427	7367537351818887	CMakeFiles/divide_and_conquer.dir/Main.cpp.obj	7cf394ee3a3d3fcd
+427	552	7367537353028979	divide_and_conquer.exe	6b75a5e264fcaa92
+5	408	7367538920899478	CMakeFiles/divide_and_conquer.dir/Main.cpp.obj	7cf394ee3a3d3fcd
+409	534	7367538922124608	divide_and_conquer.exe	6b75a5e264fcaa92

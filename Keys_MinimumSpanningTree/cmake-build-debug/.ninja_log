@@ -1,0 +1,23 @@
+# ninja log v5
+0	1631	7409910782105002	CMakeFiles/combinaciones_caja_fuerte.dir/main.cpp.obj	227878c6a607a208
+1634	1985	7409910785610454	combinaciones_caja_fuerte.exe	d88e04d8e149c61e
+15	2657	7410342040734876	CMakeFiles/combinaciones_caja_fuerte.dir/main.cpp.obj	227878c6a607a208
+2657	3421	7410342048355145	combinaciones_caja_fuerte.exe	d88e04d8e149c61e
+4	795	7410343392284600	CMakeFiles/combinaciones_caja_fuerte.dir/main.cpp.obj	227878c6a607a208
+795	934	7410343393634600	combinaciones_caja_fuerte.exe	d88e04d8e149c61e
+4	1271	7410410826536476	CMakeFiles/combinaciones_caja_fuerte.dir/main.cpp.obj	227878c6a607a208
+1272	1918	7410410832962472	combinaciones_caja_fuerte.exe	d88e04d8e149c61e
+4	890	7410414239468634	CMakeFiles/combinaciones_caja_fuerte.dir/main.cpp.obj	227878c6a607a208
+891	1345	7410414243984986	combinaciones_caja_fuerte.exe	d88e04d8e149c61e
+4	829	7410415442590536	CMakeFiles/combinaciones_caja_fuerte.dir/main.cpp.obj	227878c6a607a208
+829	1023	7410415444497688	combinaciones_caja_fuerte.exe	d88e04d8e149c61e
+6	884	7410418854254519	CMakeFiles/combinaciones_caja_fuerte.dir/main.cpp.obj	227878c6a607a208
+885	1040	7410418855784517	combinaciones_caja_fuerte.exe	d88e04d8e149c61e
+4	880	7410423701358607	CMakeFiles/combinaciones_caja_fuerte.dir/main.cpp.obj	227878c6a607a208
+881	1151	7410423704038606	combinaciones_caja_fuerte.exe	d88e04d8e149c61e
+4	826	7410425522854895	CMakeFiles/combinaciones_caja_fuerte.dir/main.cpp.obj	227878c6a607a208
+826	1111	7410425525689607	combinaciones_caja_fuerte.exe	d88e04d8e149c61e
+4	797	7410426913757923	CMakeFiles/combinaciones_caja_fuerte.dir/main.cpp.obj	227878c6a607a208
+798	952	7410426915278045	combinaciones_caja_fuerte.exe	d88e04d8e149c61e
+4	801	7410430461079049	CMakeFiles/combinaciones_caja_fuerte.dir/main.cpp.obj	227878c6a607a208
+802	955	7410430462579194	combinaciones_caja_fuerte.exe	d88e04d8e149c61e

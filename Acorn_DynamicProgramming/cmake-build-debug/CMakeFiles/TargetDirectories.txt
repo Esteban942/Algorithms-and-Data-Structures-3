@@ -1,0 +1,3 @@
+C:/Users/esteb/OneDrive/Escritorio/algo3/ardilla_nueces/cmake-build-debug/CMakeFiles/ardilla_nueces.dir
+C:/Users/esteb/OneDrive/Escritorio/algo3/ardilla_nueces/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/esteb/OneDrive/Escritorio/algo3/ardilla_nueces/cmake-build-debug/CMakeFiles/rebuild_cache.dir
